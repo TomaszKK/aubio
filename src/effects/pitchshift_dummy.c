@@ -18,6 +18,7 @@
 
 */
 
+#include <stddef.h>
 #include "aubio_priv.h"
 
 #ifndef HAVE_RUBBERBAND
